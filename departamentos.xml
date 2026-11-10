@@ -1,0 +1,53 @@
+<departamentos>
+  <departamento id="10" nombre="Administration">
+    <empleado id="200">
+      <nombre>Jennifer</nombre>
+      <apellido>Whalen</apellido>
+      <salario>4400</salario>
+    </empleado>
+  </departamento>
+  <departamento id="20" nombre="Marketing">
+    <empleado id="201">
+      <nombre>Michael</nombre>
+      <apellido>Hartstein</apellido>
+      <salario>13000</salario>
+    </empleado>
+    <empleado id="202">
+      <nombre>Pat</nombre>
+      <apellido>Fay</apellido>
+      <salario>6000</salario>
+    </empleado>
+  </departamento>
+  <departamento id="30" nombre="Purchasing">
+    <empleado id="114">
+      <nombre>Den</nombre>
+      <apellido>Raphaely</apellido>
+      <salario>11000</salario>
+    </empleado>
+    <empleado id="115">
+      <nombre>Alexander</nombre>
+      <apellido>Khoo</apellido>
+      <salario>3100</salario>
+    </empleado>
+    <empleado id="116">
+      <nombre>Shelli</nombre>
+      <apellido>Baida</apellido>
+      <salario>2900</salario>
+    </empleado>
+    <empleado id="117">
+      <nombre>Sigal</nombre>
+      <apellido>Tobias</apellido>
+      <salario>2800</salario>
+    </empleado>
+    <empleado id="118">
+      <nombre>Guy</nombre>
+      <apellido>Himuro</apellido>
+      <salario>2600</salario>
+    </empleado>
+    <empleado id="119">
+      <nombre>Karen</nombre>
+      <apellido>Colmenares</apellido>
+      <salario>2500</salario>
+    </empleado>
+  </departamento>
+</departamentos>
